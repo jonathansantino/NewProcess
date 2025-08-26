@@ -1,2 +1,2 @@
 ﻿PathToProjectJson,PackageName,OrchestratorFolder,ProcessName,RunTests
-project.json,NewProcess,XOM,NewProcess,FALSE
+project.json,NewProcess,TestFolder,NewProcess,FALSE
